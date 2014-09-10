@@ -1,0 +1,13 @@
+# Tera
+/config/env.js
+/log/*.log
+/tmp
+
+
+# Node
+node_modules
+
+
+# Misc
+.DS_Store
+dump.rdb
